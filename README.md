@@ -1,7 +1,7 @@
 ## Hi there 👋  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kurisu6912.kurisu6912">
 
-Kurisu is a Developer at DeepSeek, where he focuses on developing Tilelang and AI compiler infrastructure.
-His technical interests lie at the intersection of AI compilation algorithms and systems engineering, with a goal of building high-performance, scalable, and efficient compilation stacks for modern AI workloads.
+I'm Kexing Zhou (周可行), a developer at DeepSeek working on high-performance AI systems and compiler infrastructure.
 
-He possesses extensive experience with MLIR and Tilelang. His work is driven by a passion for advancing compiler technology to accelerate and simplify the deployment of AI systems.
+I contribute to TileLang, DeepJIT, DeepEP, and DeepGEMM, with interests spanning AI compilation, kernel optimization, and systems engineering across Huawei Ascend and NVIDIA CUDA platforms. My work focuses on making AI workloads faster and compiler infrastructure more efficient and scalable.
 
+You can also find me on GitHub as @KEKE046.
