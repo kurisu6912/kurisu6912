@@ -4,4 +4,4 @@ I'm Kexing Zhou (周可行), a developer at DeepSeek working on high-performance
 
 I contribute to TileLang, DeepEP, and DeepGEMM, with interests spanning AI compilation, kernel optimization, and systems engineering across Huawei Ascend and NVIDIA CUDA platforms. My work focuses on making AI workloads faster and compiler infrastructure more efficient and scalable.
 
-You can also find me on GitHub as @KEKE046.
+You can also find me on GitHub as [@KEKE046](https://github.com/KEKE046).
